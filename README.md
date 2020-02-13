@@ -1,4 +1,6 @@
 # HTML Input 2 CW
+#### Check out my comments in your HTML. Also, you have to use grid as stated in the instructions
+#### Score : 2/5
 
 CodeCrew has an outdated form we use for signing up students. Create a new site using CSS Grid to update our form:
 
