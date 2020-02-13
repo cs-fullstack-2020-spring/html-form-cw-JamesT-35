@@ -1,0 +1,19 @@
+
+body{
+    text-align: center;
+    background-color: yellow;
+    grid-template-columns: repeat(1,1fr);
+}
+h1{
+    color: blue;
+}
+header{
+    color: blue;
+}
+div{
+    color: green;
+}
+article{
+    color: red;
+}
+
